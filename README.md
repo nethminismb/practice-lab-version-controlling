@@ -6,5 +6,5 @@
 
 ### Created At : 15th Sept, 2025
 
-This is my first Git practical - Main Branch.
+This is my first Git practical - Main Branch and Branch A.
 
